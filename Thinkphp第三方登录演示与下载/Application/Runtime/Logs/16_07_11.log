@@ -1,0 +1,18 @@
+[ 2016-07-11T01:10:31+08:00 ] 164.132.161.72 /jquery/2/288/demo/js/14-0-0-0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006960s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001421s ]
+ERR: 无法加载控制器:Js
+
+[ 2016-07-11T13:03:12+08:00 ] 164.132.161.39 /jquery/2/288/demo/templates/7-0-0-0-0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001506s ]
+ERR: 无法加载控制器:Templates
+

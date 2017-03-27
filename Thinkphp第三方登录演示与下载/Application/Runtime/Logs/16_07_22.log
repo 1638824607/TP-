@@ -1,0 +1,9 @@
+[ 2016-07-22T23:17:22+08:00 ] 203.208.60.141 /jquery/2/288/demo/help/points
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001492s ]
+ERR: 无法加载控制器:Help
+

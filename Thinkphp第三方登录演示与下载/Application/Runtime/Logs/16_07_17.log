@@ -1,0 +1,9 @@
+[ 2016-07-17T03:12:27+08:00 ] 164.132.161.5 /jquery/2/288/demo/site/24-0-0-0-0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003959s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001332s ]
+ERR: 无法加载控制器:Site
+

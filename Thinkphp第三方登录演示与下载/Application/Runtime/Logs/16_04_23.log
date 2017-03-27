@@ -1,0 +1,17 @@
+[ 2016-04-23T00:02:47+08:00 ] 40.77.167.50 /jquery/2/288/demo/Index/login/type/sina.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001708s ]
+
+[ 2016-04-23T12:00:27+08:00 ] 51.255.65.35 /jquery/2/288/demo/templates/53-0-0-0-0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+ERR: 无法加载控制器:Templates
+

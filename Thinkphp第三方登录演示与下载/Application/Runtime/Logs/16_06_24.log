@@ -1,0 +1,51 @@
+[ 2016-06-24T08:32:24+08:00 ] 42.156.251.185 /jquery/2/288/demo/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001486s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+NOTIC: [8] Undefined variable: keywords /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 6 行.
+NOTIC: [8] Undefined variable: description /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 7 行.
+NOTIC: [8] Undefined variable: version /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 9 行.
+NOTIC: [8] Undefined variable: url_cur /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 23 行.
+NOTIC: [8] Undefined index: userid /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 41 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 103 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 104 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 105 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 106 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 107 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 108 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 109 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 110 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 111 行.
+NOTIC: [8] Undefined variable: url_cur /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 159 行.
+NOTIC: [8] Undefined variable: id /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 159 行.
+NOTIC: [8] Undefined variable: mtype /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 159 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 257 行.
+NOTIC: [8] Undefined variable: version /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 260 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 261 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 263 行.
+NOTIC: [8] Undefined variable: control /data/www/jquery/2/288/demo/Application/Runtime/Cache/Home/ccea6a400660ce54d68cab67b9f68781.php 第 263 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050260s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050358s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001234s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001275s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001440s ]
+
+[ 2016-06-24T19:25:29+08:00 ] 164.132.161.85 /jquery/2/288/demo/Index/login/type/renren.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004415s ]
+ERR: 请配置您申请的APP_KEY和APP_SECRET
+

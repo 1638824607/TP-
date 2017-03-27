@@ -1,0 +1,9 @@
+[ 2016-07-07T13:47:43+08:00 ] 164.132.161.89 /jquery/2/288/demo/js/7-0-0-0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+ERR: 无法加载控制器:Js
+

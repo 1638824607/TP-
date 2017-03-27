@@ -1,0 +1,9 @@
+[ 2016-11-12T05:56:01+08:00 ] 163.172.66.141 /jquery/2/288/demo/Index/login/type/renren.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+ERR: 请配置您申请的APP_KEY和APP_SECRET
+

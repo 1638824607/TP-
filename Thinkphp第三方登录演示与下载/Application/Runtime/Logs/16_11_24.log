@@ -1,0 +1,9 @@
+[ 2016-11-24T16:18:41+08:00 ] 163.172.66.55 /jquery/2/288/demo/search/search.html?keyword=bootstrap
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002683s ]
+ERR: 无法加载控制器:Search
+
